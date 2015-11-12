@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="bundler (v1.10.6, Remote:ruby-2.1.5-p273) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1748720207/gems/bundler-1.10.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1748720207/gems/bundler-1.10.6/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1748720207/gems/bundler-1.10.6/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1748720207/gems/bundler-1.10.6/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1748720207/gems/bundler-1.10.6/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1748720207/gems/bundler-1.10.6/man" />
+      </SOURCES>
+    </library>
     <library name="colorize (v0.7.7, Remote:ruby-2.1.5-p273) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine80/ruby_stubs/1404693547/-1347167364/gems/colorize-0.7.7/lib" />

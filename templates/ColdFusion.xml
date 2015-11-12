@@ -1,0 +1,9 @@
+<templateSet group="ColdFusion">
+  <template name="coj" value="createObject(&quot;java&quot;, &quot;$CLASSPATH$&quot;)" description="Insert createObject (java) method call" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSPATH" expression="&quot;CLASSPATH&quot;" defaultValue="&quot;CLASSPATH&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="ColdFusion" value="false" />
+    </context>
+  </template>
+</templateSet>
